@@ -25,6 +25,7 @@ RUN install-php-extensions \
     zip \
     pdo \
     pdo_pgsql \
+    pdo_mysql \
     exif \
     pgsql \
     redis-6.1.0 \
