@@ -1,13 +1,13 @@
-# php8.4-cli-extended-with-swoole-production
+# php8.5-cli-extended-with-openswoole-production
 
-A **production-ready PHP 8.4 CLI Docker image** extended with [Swoole](https://www.swoole.co.uk/) for building **high-performance, asynchronous, and coroutine-based applications**.  
+A **production-ready PHP 8.5 CLI Docker image** extended with [openswoole](https://openswoole.com/) for building **high-performance, asynchronous, and coroutine-based applications**.  
 This image is optimized for **scalable APIs, microservices, real-time apps, and background workers**.
 
 ---
 
 ## ✨ Features
-- ✅ **PHP 8.4 CLI** – latest stable release
-- ✅ **Swoole Extension** – async I/O, coroutines, websockets, task workers
+- ✅ **PHP 8.5 CLI** – latest stable release
+- ✅ **Open Swoole Extension** – async I/O, coroutines, websockets, task workers
 - ✅ **Production Optimizations** – minimal, secure, and stable
 - ✅ **Extended PHP Extensions** (commonly required for modern apps)
 - ✅ **Ready for Docker/Kubernetes** deployments
@@ -27,4 +27,4 @@ This image is ideal for:
 ## 🛠️ Usage
 
 - dockerizing your app
-- try swoole
+- try Open Swoole
